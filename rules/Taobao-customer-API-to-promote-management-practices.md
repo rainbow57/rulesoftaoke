@@ -74,7 +74,7 @@ A：（一）前期准备：
 
 （二）申请开通淘宝客基础API：【前提：已经拥有淘宝客账户，并且该账户下有通过审核的备案网站】
 
-![](file:///C:/Users/ximin/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)![](https://img.alicdn.com/tps/TB1V6bmLXXXXXX4XVXXXXXXXXXX-1103-529.png)
+![](../images/TB1V6bmLXXXXXX4XVXXXXXXXXXX-1103-529.png)
 
 **Q：申请淘宝客链接API的流程是什么？**
 
@@ -82,7 +82,7 @@ A：前提：需要申请此权限的网站/无线APP已经申请获得了淘宝
 
 流程：
 
-![](file:///C:/Users/ximin/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)![](https://img.alicdn.com/tps/TB1jEzGLXXXXXb1XXXXXXXXXXXX-1166-579.jpg)
+![](../images/TB1jEzGLXXXXXb1XXXXXXXXXXXX-1166-579.jpg)
 
 申请表网址：
 
@@ -96,7 +96,7 @@ A：前提：需要申请此权限的网站/无线APP已经申请获得了淘宝
 
 流程：
 
-![](file:///C:/Users/ximin/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png)![](https://img.alicdn.com/tps/TB15kLDLXXXXXXCXpXXXXXXXXXX-1181-572.jpg)
+![](../images/TB15kLDLXXXXXXCXpXXXXXXXXXX-1181-572.jpg)
 
 申请表网址：
 

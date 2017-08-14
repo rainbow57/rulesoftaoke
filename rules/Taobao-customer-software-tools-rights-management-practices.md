@@ -19,9 +19,7 @@
 |  | 淘宝客-工具-物料高级包 | 好券直播；品牌券 | [通过类目查券](http://open.taobao.com/doc2/apiList.htm?scopeId=12331) | 完成 | 高级 | 70分 |
 | 淘宝客-工具-推广位 | 推广位 | 推广位获取和生成 | 推广位获取和生成 | 敬请期待 | 高级 | 70分 |
 | 淘宝客-工具-佣金计划包 | 佣金计划 | 获取最高佣金 | 包含查询和申请最高佣金计划 | 完成 | 高级 | 80分或达到成长体系准入规则 |
-
 | 淘宝客-工具-淘宝客淘口令 | 淘口令 | 高额免费生成淘口令 | 敬请期待 | 敬请期待 | 高级 | 单项合作能力45分 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 
 
 二、淘宝客软件工具权限开放规则：
@@ -44,21 +42,545 @@
 
 1、 淘宝客工具分数表详情。
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  | 淘宝客工具分数表 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |  |  |  |  |  | 分类及权重 | 名称 | 考核描述 | 分值 | 比例 |
-|  |  |  |  | 100% | 90% | 80% | 70% | 60% | 50% | 40% | 30% | 20% | 10% | 0% |
-| 销货能力 40分 | 流量 30分 | 使用工具且有推广点击的淘宝客数量（PUB\_ID） | 5 | ≥10000 | ≥8000 | ≥6000 | ≥3000 | ≥1000 | ≥500 | ≥250 | ≥50 | ≥25 | ≥10 | &lt;10 |
-|  |  | 淘宝客点击数合计 | 10 | ≥1400000 | ≥1120000 | ≥840000 | ≥420000 | ≥140000 | ≥70000 | ≥35000 | ≥7000 | ≥3500 | ≥1400 | &lt;1400 |
-|  |  | 淘宝客推广UV数合计 | 15 | ≥500000 | ≥400000 | ≥300000 | ≥150000 | ≥50000 | ≥25000 | ≥12500 | ≥2500 | ≥1250 | ≥500 | &lt;500 |
-|  | 成交 10分 | alipay笔数 | 5 | ≥180000 | ≥144000 | ≥108000 | ≥54000 | ≥18000 | ≥9000 | ≥4500 | ≥900 | ≥450 | ≥180 | &lt;180 |
-|  |  | alipay金额 | 5 | ≥4500000 | ≥3600000 | ≥2700000 | ≥1350000 | ≥450000 | ≥225000 | ≥112500 | ≥22500 | ≥11250 | ≥4500 | &lt;4500 |
-| 合作能力 60分 | 官方通知下行 5分 | 淘宝客通知信息触达 | 5 | 100% |  |  |  |  |  |  |  |  |  | &lt;100% |
-|  | 合作物料下行 55分  （合作物料指：优惠券排行榜、实时爆款；好券直播、品牌券等物料API） | 参与合作物料推广淘宝客数以及占工具整体淘宝客数比例 | 5 | ≥90% | ≥80% | ≥70% | ≥60% | ≥50% | ≥40% | ≥30% | ≥20% | ≥10% | &gt;0 | =0 |
-|  |  | 推广合作物料商品数以及占工具整体推广商品数比例 | 5 | ≥90% | ≥80% | ≥70% | ≥60% | ≥50% | ≥40% | ≥30% | ≥20% | ≥10% | &gt;0 | =0 |
-|  |  | 推广合作物料淘宝客点击数以及占工具整体淘宝客点击数比例 | 15 | ≥90% | ≥80% | ≥70% | ≥60% | ≥50% | ≥40% | ≥30% | ≥20% | ≥10% | &gt;0 | =0 |
-|  |  | 推广合作物料alipay笔数以及占工具整体推广alipay笔数比例 | 15 | ≥90% | ≥80% | ≥70% | ≥60% | ≥50% | ≥40% | ≥30% | ≥20% | ≥10% | &gt;0 | =0 |
-|  |  | 推广合作物料alipay金额以及占工具整体推广alipay金额比例 | 15 | ≥90% | ≥80% | ≥70% | ≥60% | ≥50% | ≥40% | ≥30% | ≥20% | ≥10% | &gt;0 | =0 |
+<div>
+	<table cellspacing="0" cellpadding="0" border="0">
+		<tbody>
+			<tr>
+				<td colspan="15" style="border-color:windowtext; height:16.5pt">
+				<p style="text-align:center"><span>淘宝客工具分数表</span></p>
+				</td>
+			</tr>
+			<tr>
+				<td rowspan="2" style="height:16.5pt">
+				<p style="text-align:center"><span>分类及权重</span></p>
+				</td>
+				<td rowspan="2" style="height:16.5pt">
+				<p style="text-align:center"><span>名称</span></p>
+				</td>
+				<td rowspan="2" style="height:16.5pt">
+				<p style="text-align:center"><span>考核描述</span></p>
+				</td>
+				<td rowspan="2" style="height:16.5pt">
+				<p style="text-align:center"><span>分值</span></p>
+				</td>
+				<td colspan="11" style="height:16.5pt">
+				<p style="text-align:center"><span>比例</span></p>
+				</td>
+			</tr>
+			<tr>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>100%</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>90%</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>80%</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>70%</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>60%</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>50%</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>40%</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>30%</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>20%</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>10%</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>0%</span></p>
+				</td>
+			</tr>
+			<tr>
+				<td rowspan="5" style="height:16.5pt">
+				<p style="text-align:center"><span>销货能力<br>
+				<span>40</span>分</span></p>
+				</td>
+				<td rowspan="3" style="height:16.5pt">
+				<p style="text-align:center"><span>流量<br>
+				<span>30</span>分</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>使用工具且有推广点击的淘宝客数量（<span>PUB_ID</span>）</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>5</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>10000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>8000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>6000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>3000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>1000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>500</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>250</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>50</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>25</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>10</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>&lt;10</span></p>
+				</td>
+			</tr>
+			<tr>
+				<td style="height:16.5pt">
+				<p><span>淘宝客点击数合计</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>10</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>1400000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>1120000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>840000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>420000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>140000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>70000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>35000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>7000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>3500</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>1400</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>&lt;1400</span></p>
+				</td>
+			</tr>
+			<tr>
+				<td style="height:16.5pt">
+				<p><span>淘宝客推广<span>UV</span>数合计</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>15</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>500000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>400000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>300000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>150000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>50000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>25000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>12500</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>2500</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>1250</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>500</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>&lt;500</span></p>
+				</td>
+			</tr>
+			<tr>
+				<td rowspan="2" style="height:16.5pt">
+				<p style="text-align:center"><span>成交<br>
+				<span>10</span>分</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>alipay</span><span>笔数</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>5</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>180000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>144000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>108000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>54000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>18000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>9000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>4500</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>900</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>450</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>180</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>&lt;180</span></p>
+				</td>
+			</tr>
+			<tr>
+				<td style="height:16.5pt">
+				<p><span>alipay</span><span>金额</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>5</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>4500000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>3600000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>2700000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>1350000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>450000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>225000</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>112500</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>22500</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>11250</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>4500</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>&lt;4500</span></p>
+				</td>
+			</tr>
+			<tr>
+				<td rowspan="6" style="height:16.5pt">
+				<p style="text-align:center"><span>合作能力<br>
+				<span>60</span>分</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>官方通知下行<br>
+				<span>5</span>分</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>淘宝客通知信息触达</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>5</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>100%</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>　</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>　</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>　</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>　</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>　</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>　</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>　</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>　</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>　</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>&lt;100%</span></p>
+				</td>
+			</tr>
+			<tr>
+				<td rowspan="5" style="height:16.5pt">
+				<p style="text-align:center"><span>合作物料下行<br>
+				<span>55</span>分<br>
+				（合作物料指：优惠券排行榜、实时爆款；好券直播、品牌券等物料<span>API</span>）</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>参与合作物料推广淘宝客数以及占工具整体淘宝客数比例</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>5</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>90%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>80%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>70%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>60%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>50%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>40%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>30%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>20%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>10%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>&gt;0</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>=0</span></p>
+				</td>
+			</tr>
+			<tr>
+				<td style="height:16.5pt">
+				<p><span>推广合作物料商品数以及占工具整体推广商品数比例</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>5</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>90%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>80%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>70%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>60%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>50%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>40%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>30%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>20%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>10%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>&gt;0</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>=0</span></p>
+				</td>
+			</tr>
+			<tr>
+				<td style="height:16.5pt">
+				<p><span>推广合作物料淘宝客点击数以及占工具整体淘宝客点击数比例</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>15</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>90%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>80%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>70%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>60%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>50%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>40%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>30%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>20%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>10%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>&gt;0</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>=0</span></p>
+				</td>
+			</tr>
+			<tr>
+				<td style="height:16.5pt">
+				<p><span>推广合作物料<span>alipay</span>笔数以及占工具整体推广<span>alipay</span>笔数比例</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>15</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>90%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>80%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>70%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>60%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>50%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>40%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>30%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>20%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>10%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>&gt;0</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>=0</span></p>
+				</td>
+			</tr>
+			<tr>
+				<td style="height:16.5pt">
+				<p><span>推广合作物料<span>alipay</span>金额以及占工具整体推广<span>alipay</span>金额比例</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p style="text-align:center"><span>15</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>90%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>80%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>70%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>60%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>50%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>40%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>30%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>20%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>≥<span>10%</span></span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>&gt;0</span></p>
+				</td>
+				<td style="height:16.5pt">
+				<p><span>=0</span></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
 
 具体以阿里妈妈统计为准。
 
@@ -70,10 +592,57 @@
 
 3、成长体系获取的高级API权限（淘宝客-工具-佣金计划包）规则：[**解读**](http://rule.alimama.com/?spm=a2320.7388781.a214tr8.21.69ad0d21wrEeIT#%21/announce/business/detail?id=8307063&knowledgeid=20495054)
 
-|  |  |  |  |  | 成长期 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 工具分值段 | 60~65 | 65~70 | 70~75 | 75~80 | 合计 |
-| 权限期限（天） | 30 | 45 | 60 | 75 | 210天 |
+<div>
+	<table style="width:340.95pt" cellspacing="0" cellpadding="0" border="0">
+	<tbody>
+		<tr>
+			<td colspan="6" style="border-color:windowtext; height:16.5pt; width:340.95pt">
+			<p style="text-align:center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>成长期</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:16.5pt; width:98.9pt">
+			<p style="text-align:center"><span>工具分值段</span></p>
+			</td>
+			<td style="height:16.5pt; width:46.05pt">
+			<p style="text-align:center"><span>60~65</span></p>
+			</td>
+			<td style="height:16.5pt; width:46.05pt">
+			<p style="text-align:center"><span>65~70</span></p>
+			</td>
+			<td style="height:16.5pt; width:46.05pt">
+			<p style="text-align:center"><span>70~75</span></p>
+			</td>
+			<td style="height:16.5pt; width:46.05pt">
+			<p style="text-align:center"><span>75~80</span></p>
+			</td>
+			<td style="height:16.5pt; width:57.85pt">
+			<p style="text-align:center"><span>合计</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:16.5pt; width:98.9pt">
+			<p style="text-align:center"><span>权限期限（天）</span></p>
+			</td>
+			<td style="height:16.5pt; width:46.05pt">
+			<p style="text-align:center"><span>30</span></p>
+			</td>
+			<td style="height:16.5pt; width:46.05pt">
+			<p style="text-align:center"><span>45</span></p>
+			</td>
+			<td style="height:16.5pt; width:46.05pt">
+			<p style="text-align:center"><span>60</span></p>
+			</td>
+			<td style="height:16.5pt; width:46.05pt">
+			<p style="text-align:center"><span>75</span></p>
+			</td>
+			<td style="height:16.5pt; width:57.85pt">
+			<p style="text-align:center"><span>210</span><span>天</span></p>
+			</td>
+		</tr>
+	</tbody>
+	</table>
+</div>
 
 4、成长体系获取的高级API权限（淘宝客-工具-佣金计划包）清出规则：
 

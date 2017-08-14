@@ -54,7 +54,7 @@
 
 每个月接受一次申请，具体时间安排：
 
-![](https://img.alicdn.com/tfs/TB1OfV_SFXXXXXLXpXXXXXXXXXX-788-178.jpg)
+![](../images/TB1OfV_SFXXXXXLXpXXXXXXXXXX-788-178.jpg)
 
 注意：
 
@@ -86,10 +86,63 @@
 
 **1、自然月要求**
 
-|  |  | 均需符合 | 活跃度要求 | 商家服务能力 | 招商效果 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-|  | 当月新推广的活动数/个 | 招商商家数/家 | 招商商品数/个 | 目标完成率/% | 单品平均成交/元 |
-| 基本能力 | ≥3 | ≥5 | ≥20 | 待试运行后公布 | 待试运行后公布 |
+<div>
+<table cellspacing="0" cellpadding="0" border="1">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="border-color:windowtext; height:11.1pt; width:10%">
+			<p><span>均需符合</span></p>
+			</td>
+			<td style="height:11.1pt; width:89.25pt">
+			<p><span>活跃度要求</span></p>
+			</td>
+			<td colspan="2" style="height:11.1pt; width:158.95pt">
+			<p><span>商家服务能力</span></p>
+			</td>
+			<td colspan="2" style="height:11.1pt; width:157.5pt">
+			<p><span>招商效果</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:9.85pt; width:89.25pt">
+			<p><span>当月新推广的活动数<span>/</span>个</span></p>
+			</td>
+			<td style="height:9.85pt; width:79.55pt">
+			<p><span>招商商家数<span>/</span>家</span></p>
+			</td>
+			<td style="height:9.85pt; width:79.4pt">
+			<p><span>招商商品数<span>/</span>个</span></p>
+			</td>
+			<td style="height:9.85pt; width:77.95pt">
+			<p><span>目标完成率<span>/%</span></span></p>
+			</td>
+			<td style="height:9.85pt; width:79.55pt">
+			<p><span>单品平均成交<span>/</span>元</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:7.3pt; width:10%">
+			<p><span>基本能力</span></p>
+			</td>
+			<td style="height:7.3pt; width:89.25pt">
+			<p><span>≥<span>3</span></span></p>
+			</td>
+			<td style="height:7.3pt; width:79.55pt">
+			<p><span>≥<span>5</span></span></p>
+			</td>
+			<td style="height:7.3pt; width:79.4pt">
+			<p><span>≥<span>20</span></span></p>
+			</td>
+			<td style="height:7.3pt; width:77.95pt">
+			<p><span>待试运行后公布</span></p>
+			</td>
+			<td style="height:7.3pt; width:79.55pt">
+			<p><span>待试运行后公布</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 指标说明：当月新推广的活动数/个=活动开始时间在当月；招商商家数/家=当月新推广的活动内的不同商家数；招商商品数/个=当月新推广的活动内的不同商品数；目标完成率/%=推广结果/商家营销目标；单品平均成交/元=招商商品的平均成交金额
 

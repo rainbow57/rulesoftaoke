@@ -18,7 +18,7 @@
 
 （3）一笔超级权益交易，如买家付款时用的超级权益来自于不同推广者，或同时存在普通CPS推广（除超级权益推广、红包推广外的其他各种形式的淘宝客推广），则适用如下结算逻辑：
 
-![](https://img.alicdn.com/tps/TB11WfkLVXXXXawXFXXXXXXXXXX-957-558.jpg)
+![](../images/TB11WfkLVXXXXawXFXXXXXXXXXX-957-558.jpg)
 
 
 
