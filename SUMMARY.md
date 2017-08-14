@@ -6,25 +6,25 @@
 		* 生效公告
 	* 规则
 		* 权限规则
-			* [淘宝联盟开放招商团长管理规范（2017-08-02）]
-			* [淘宝客API推广管理规范（2017-08-01）]
-			* [淘宝客软件工具权限管理规范（2017-07-28）]
-			* [淘宝客活动推广权限规则（2017-01-04）]
-			* [天猫推广跨店结算权限管理规则（2015-11-18）]
-			* [淘点金推广管理规范（2015-10-19）]
-			* [爱淘宝推广（含搜索）管理规则试运行（2015-07-16）]
+			* [淘宝联盟开放招商团长管理规范（2017-08-02）](./rules/Taobao-Union-open-investment-head-management-rules.md)
+			* [淘宝客API推广管理规范（2017-08-01）](./rules/Taobao-customer-API-to-promote-management-practices.md)
+			* [淘宝客软件工具权限管理规范（2017-07-28）](./rules/Taobao-customer-software-tools-rights-management-practices.md)
+			* [淘宝客活动推广权限规则（2017-01-04）](./rules/Taobao-customer-activities-to-promote-the-rules-of-authority.md)
+			* [天猫推广跨店结算权限管理规则（2015-11-18）](./rules/Day-cat-to-promote-cross-store-settlement-authority-management-rules.md)
+			* [淘点金推广管理规范（2015-10-19）](./rules/Pristine-gold-promotion-management-standard.md)
+			* [爱淘宝推广（含搜索）管理规则试运行（2015-07-16）](./rules/Love-Taobao-promotion-management-rules-test-run.md)
 		* 基础规则
-			* [淘宝客佣金计算规范（2017-07-31）]
-			* [阿里妈妈推广者规范（2017-06-12）]
-			* [红包推广功能推广者端规范（2016-11-02）]
-			* [淘宝客软件工具合作规范（2016-10-24）]
-			* [《“关注”推广结算规范》（2016-10-09）]
-			* [阿里蒲公英项目推广合作规范（2016-07-26）]
-			* [超级权益推广功能推广者端规范（2016-06-20）]
+			* [淘宝客佣金计算规范（2017-07-31）](./rules/Taobao-customer-commission-calculation-specification.md)
+			* [阿里妈妈推广者规范（2017-06-12）](./rules/Ali-mother-promoters-norms.md)
+			* [红包推广功能推广者端规范（2016-11-02）](./rules/Reducer-Promotional-Function-Promoter.md)
+			* [淘宝客软件工具合作规范（2016-10-24）](./rules/Taobao-customer-software-tools-cooperation-norms.md)
+			* [《“关注”推广结算规范》（2016-10-09）](./rules/Focus-to-promote-the-settlement-norms.md)
+			* [阿里蒲公英项目推广合作规范（2016-07-26）](./rules/Ali-Dandelion-Project-Promotion-Practice.md)
+			* [超级权益推广功能推广者端规范（2016-06-20）](./rules/Super-Rights-Promotion-Function-Promoter.md)
 	* 规则解读
-		* [《阿里妈妈推广者规范》解读]
-		* [《淘宝客佣金计算规范》解读]
-		* [淘宝客各项常见违规原因对应常用扣分表]
+		* [《阿里妈妈推广者规范》解读](./rules/An-Interpretation-of-Ali-Promoter-Standard.md)
+		* [《淘宝客佣金计算规范》解读](./rules/Interpretation-of-Taobao-Commitment-Calculation.md)
+		* [淘宝客各项常见违规原因对应常用扣分表](./rules/the-common-reasons-for-the-common-violation-of-the-commonly-used-deduction-table.md)
 	* 专题
 		* [“妈妈说规则系列”专题]
 		* [网站渠道备案拒绝原因解读]
