@@ -22,10 +22,10 @@
 			* [阿里蒲公英项目推广合作规范（2016-07-26）](./rules/Ali-Dandelion-Project-Promotion-Practice.md)
 			* [超级权益推广功能推广者端规范（2016-06-20）](./rules/Super-Rights-Promotion-Function-Promoter.md)
 	* 规则解读
-		* [《阿里妈妈推广者规范》解读](./rules/An-Interpretation-of-Ali-Promoter-Standard.md)
-		* [《淘宝客佣金计算规范》解读](./rules/Interpretation-of-Taobao-Commitment-Calculation.md)
-		* [淘宝客各项常见违规原因对应常用扣分表](./rules/the-common-reasons-for-the-common-violation-of-the-commonly-used-deduction-table.md)
+		* 《阿里妈妈推广者规范》解读
+		* 《淘宝客佣金计算规范》解读
+		* 淘宝客各项常见违规原因对应常用扣分表
 	* 专题
-		* [“妈妈说规则系列”专题]
-		* [网站渠道备案拒绝原因解读]
+		* “妈妈说规则系列”专题
+		* 网站渠道备案拒绝原因解读
 	* 其他
