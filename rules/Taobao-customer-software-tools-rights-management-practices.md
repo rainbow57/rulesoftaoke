@@ -46,7 +46,7 @@
 	<table cellspacing="0" cellpadding="0" border="0">
 		<tbody>
 			<tr>
-				<td colspan="15" style="border-color:windowtext; height:16.5pt">
+				<td colspan="15" style="height:16.5pt">
 				<p style="text-align:center"><span>淘宝客工具分数表</span></p>
 				</td>
 			</tr>
@@ -596,7 +596,7 @@
 	<table style="width:340.95pt" cellspacing="0" cellpadding="0" border="0">
 	<tbody>
 		<tr>
-			<td colspan="6" style="border-color:windowtext; height:16.5pt; width:340.95pt">
+			<td colspan="6" style="height:16.5pt; width:340.95pt">
 			<p style="text-align:center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>成长期</span></p>
 			</td>
 		</tr>
